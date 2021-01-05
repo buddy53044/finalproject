@@ -2,3 +2,4 @@ merge
 no1 draw and end and whowin
 no2 inputdata and main funtion
 no3 merge allthings
+no4 hotfix error name and mix finalproject
