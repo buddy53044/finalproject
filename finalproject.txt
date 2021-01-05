@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <stdbool.h> 
 
 //borad
 int Allpiece[16][16] = {0};
