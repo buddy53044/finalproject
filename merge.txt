@@ -1,2 +1,3 @@
 merge 
 no1 draw and end and whowin
+no inputdata and main funtion
