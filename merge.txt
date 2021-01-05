@@ -1,3 +1,4 @@
 merge 
 no1 draw and end and whowin
-no inputdata and main funtion
+no2 inputdata and main funtion
+no3 merge allthings
