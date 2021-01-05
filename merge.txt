@@ -5,3 +5,4 @@ no3 merge allthings
 no4 hotfix error name and mix finalproject
 no5 hotfix inputdata is empty
 no6 hotfix include stdbool.h problem
+no7 fix the digit display problem

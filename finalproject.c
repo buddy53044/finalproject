@@ -44,15 +44,15 @@ void DrawThePieces()
     printf("%d ",i);
     for (int j = 0; j < 8; j++)
     {
-      if (Allpiece[i][j] == 0)
+      if (Allpiece[j][i] == 0)
       {
         printf("_ ");
       }
-      if (Allpiece[i][j] == 1)
+      if (Allpiece[j][i] == 1)
       {
         printf("X ");
       }
-      if (Allpiece[i][j] == 2)
+      if (Allpiece[j][i] == 2)
       {
         printf("O ");
       }
@@ -94,10 +94,10 @@ void inputdata()
   // 2:white piece is O
 
   // Allpiece[0][0] = 1;
-  Allpiece[0][1] = 1;
-  Allpiece[0][2] = 1;
-  Allpiece[0][3] = 1;
-  Allpiece[0][4] = 1;
+  // Allpiece[0][1] = 1;
+  // Allpiece[0][2] = 1;
+  // Allpiece[0][3] = 1;
+  // Allpiece[0][4] = 1;
 
   piececolor = (piecenumber % 2) + 1;
   piececolor == 1 ? printf("input X position:") : printf("input O position:");
